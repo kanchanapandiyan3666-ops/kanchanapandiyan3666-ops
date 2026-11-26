@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Kanchana! 👋
 
-<!--
-**kanchanapandiyan3666-ops/kanchanapandiyan3666-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Student at Saveetha Engineering College.
+- 💻 Interested in Artificial Intelligence and Data Science.
+- 🌱 Currently learning new technologies and improving my programming skills.
+- 🚀 Passionate about developing projects and solving real-world problems.
+- 🎯 Aspiring to build a successful career in the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- Java
+- C
+- SQL
+- HTML & CSS
+- Machine Learning
+- Artificial Intelligence
+
+## Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Software Development
+- Android Application Development
+
+## My Goals
+- Improve my coding and problem-solving skills.
+- Develop innovative projects.
+- Learn new technologies.
+- Contribute to open-source projects.
+
+## Connect With Me
+- GitHub: https://github.com/kanchanapandiyan3666-ops
+-LinkedIn: https://www.linkedin.com/in/kanchana-p-a6387037b/
+---
+
+⭐ Thank you for visiting my GitHub profile!
